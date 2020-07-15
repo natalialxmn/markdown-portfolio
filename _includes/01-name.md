@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+#welcome to my personal blog 
+##I'm natalia. 
