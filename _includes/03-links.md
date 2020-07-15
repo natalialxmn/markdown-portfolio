@@ -1,1 +1,4 @@
-Replace this with a link to your a GitHub or social media profile.
+[Github] (http://github.com/natalialxmn)
+[LinkedIn] (https://www.linkedin.com/in/laxamann/)
+[Art Blog] (https://natalialxmn.wixsite.com/whenthisfindsyou)
+[Instagram] (https://www.instagram.com/natalialaxamana/)
